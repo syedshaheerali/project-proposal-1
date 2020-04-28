@@ -7,3 +7,5 @@ Talha Hanfi (63629)
 
 Project:
 RSA CRYPTOGRAPHY (c++)
+Details:
+To decrypt numbers into msgs
